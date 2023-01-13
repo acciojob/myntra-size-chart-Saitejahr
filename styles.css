@@ -1,2 +1,8 @@
-
-/* Your CSS Code here. */
+table,th,tr,td{
+	border:1px solid green;
+	border-collapse: collapse;
+	color:yellow;
+	background-color:black;
+	text-align:center;
+     
+}
